@@ -1,1 +1,2 @@
 # FollowAlongLinkHighlighter
+# SpeechSynthesis
